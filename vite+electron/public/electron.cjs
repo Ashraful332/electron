@@ -23,10 +23,12 @@ const createWindow = () => {
     height: 600,
     webPreferences: {
       nodeIntegration: true, // ✅ Node.js allow in renderer
+       contextIsolation: true,
     },
   })
 
-  win.loadURL('http://localhost:6969')
+  win.loadURL('http://localhost:6969');
+  // win.loadFile('../dist/index.html');
 }
 
 app.whenReady().then(() => {
