@@ -4,16 +4,16 @@ import profile from '../assets/ashraful.png'
 import search_ico from '../assets/search.svg'
 import arrow_don from '../assets/chevron-down.svg'
 
-export default function Group(){
-    return(
+export default function Group() {
+    return (
         <div className='border-l-2 border-l-gray-800 rounded-l-2xl py-10 w-96 '>
             <div>
                 <div>
                     <button className='flex flex-row items-center'>
-                        <img src={icon1} alt="arrow icon"  />
+                        <img src={icon1} alt="arrow icon" />
                         Chat
                     </button>
-                    <hr  className='mt-8 mx-5 '/>
+                    <hr className='mt-8 mx-5 ' />
                 </div>
 
                 <div className='flex flex-col items-center'>
@@ -37,20 +37,27 @@ export default function Group(){
                 </div>
 
                 <div>
-                    <div className='flex flex-row items-center gap-10'>
+                    <div className='flex flex-row items-center gap-10 my-8'>
                         <p>Last Chat</p>
                         <button>
                             <img src={icon2} alt="icon" />
                         </button>
-                        <div>
-                            <div>
+
+                    </div>
+                    <div>
+                        <div className='flex flex-row'>
+                            <div className='flex flex-row gap-4' >
                                 <div>
-                                    <img src={profile} alt="profile" width={50} />
+                                    <img src={profile} alt="profile" width={50} className='bg-blue-400 rounded-full' />
                                 </div>
-                                <p>Name</p>
-                                <p>last chat</p>
-                                <p>date and time</p>
+                                <div>
+                                    <p>Name</p>
+                                    <p>last chat</p>
+                                </div>
+
                             </div>
+
+                            <p>date and time</p>
                         </div>
                     </div>
                 </div>
