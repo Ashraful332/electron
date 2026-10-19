@@ -6,7 +6,7 @@ import arrow_don from '../assets/chevron-down.svg'
 
 export default function Group() {
     return (
-        <div className='w-full max-w-xs md:w-80 h-screen flex flex-col justify-between py-6 px-4 bg-white border-r border-slate-100 overflow-y-auto shrink-0'>
+        <div className='w-full max-w-xs md:w-80 h-screen flex flex-col justify-between py-6 px-4 bg-white border-r border-slate-100 border-l border-l-gray-200 rounded-l-2xl overflow-y-auto shrink-0'>
             <div>
                 {/* Header */}
                 <div className='flex items-center gap-4 mb-4'>
