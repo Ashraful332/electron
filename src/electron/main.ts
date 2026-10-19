@@ -9,8 +9,8 @@ import { isDev } from "./util.js";
 app.on("ready",()=>{
     const mainWindow = new BrowserWindow({});
     if (isDev()) { // it not work
-        mainWindow.loadURL('http://localhost:5123');
-    }else{ // Allwas it work
         mainWindow.loadFile(path.join( app.getAppPath() + '/out/index.html'));
+    }else{ // Allwas it work
+        mainWindow.loadURL('http://localhost:5123');
     }
 });

@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="736" height="540" viewBox="0 0 736 540">
+<defs>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#6a7390" flood-opacity="0.30"/></filter>
+<clipPath id="gclip"><circle cx="622" cy="150" r="26"/></clipPath>
+</defs>
+<rect width="736" height="540" fill="#e9eaf1"/>
+<rect x="35" y="64" width="666" height="420" rx="14" fill="#ffffff" filter="url(#shadow)"/>
+<path d="M56 89 l6.5 -6 4 9 -7.5 3 z" fill="#1fb6a6"/><path d="M62.5 83 l5.5 3.2 -3.2 5.6 z" fill="#e25563"/>
+<text x="96" y="94" font-size="13" font-weight="600" fill="#3a3f47" font-family="Arial">Chat</text>
+<circle cx="58" cy="150" r="11" fill="#f2f3f7" stroke="#e8eaef"/><circle cx="58" cy="150" r="5.5" fill="none" stroke="#a9afba" stroke-width="1.4"/><path d="M58 146.6 V150 L60.6 151.8" stroke="#a9afba" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<circle cx="58" cy="185" r="11" fill="#f2f3f7" stroke="#e8eaef"/><rect x="53" y="181" width="10" height="9" rx="1.5" fill="none" stroke="#a9afba" stroke-width="1.4"/><path d="M53 183.5 H63 M55 179 V182 M61 179 V182" stroke="#a9afba" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<circle cx="58" cy="220" r="11" fill="#1fb6a6"/><path d="M52.5 216 a3.6 3.6 0 0 1 3.6 -2.4 h3.8 a3.6 3.6 0 0 1 3.6 3.6 v0.6 a3.6 3.6 0 0 1 -3.6 3.6 h-2.6 l-3.4 2.8 v-3 a3.6 3.6 0 0 1 -1.4 -2.9 z" fill="#ffffff"/>
+<circle cx="58" cy="256" r="11" fill="#f2f3f7" stroke="#e8eaef"/><path d="M54.6 251.4 a1.1 1.1 0 0 1 1.6 -0.5 l1.7 1.2 a1.1 1.1 0 0 1 0.3 1.5 l-0.9 1.3 a8 8 0 0 0 3.2 3.2 l1.3 -0.9 a1.1 1.1 0 0 1 1.5 0.3 l1.2 1.7 a1.1 1.1 0 0 1 -0.5 1.6 l-1.7 0.8 a1.5 1.5 0 0 1 -1.8 -0.2 a12.5 12.5 0 0 1 -5.5 -7.3 a1.5 1.5 0 0 1 0.5 -2 z" fill="#a9afba"/>
+<circle cx="58" cy="292" r="11" fill="#f2f3f7" stroke="#e8eaef"/><circle cx="56" cy="289.5" r="2.5" fill="#a9afba"/><path d="M51.8 296.4 a4.4 4.4 0 0 1 8.6 0 z" fill="#a9afba"/><circle cx="61.4" cy="288.6" r="2" fill="#a9afba" opacity="0.6"/><path d="M59.6 296.4 a3.5 3.5 0 0 1 6.1 -1 z" fill="#a9afba" opacity="0.6"/>
+<circle cx="58" cy="328" r="11" fill="#f2f3f7" stroke="#e8eaef"/><circle cx="58" cy="328" r="1.9" fill="#a9afba"/><path d="M58 322.7 v1.9 M58 331.4 v1.9 M52.7 328 h1.9 M61.4 328 h1.9 M54.3 324.3 l1.3 1.3 M60.4 330.4 l1.3 1.3 M61.7 324.3 l-1.3 1.3 M55.6 330.4 l-1.3 1.3" stroke="#a9afba" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="235" y1="82" x2="235" y2="466" stroke="#eef0f4" stroke-width="1.5"/>
+<line x1="545" y1="82" x2="545" y2="466" stroke="#eef0f4" stroke-width="1.5"/>
+<circle cx="160" cy="150" r="24" fill="#dfe3ea"/><circle cx="160" cy="145.2" r="7.199999999999999" fill="#caa27e"/><path d="M 152.8 143.76 A 7.68 7.68 0 0 1 167.2 143.76 L 167.2 139.44 A 8.64 7.199999999999999 0 0 0 152.32 139.92 Z" fill="#4a3526"/><path d="M 146.8 172.8 A 13.919999999999998 13.919999999999998 0 0 1 173.2 172.8 L 173.2 163.2 A 11.52 10.56 0 0 0 146.8 163.2 Z" fill="#5b7a99"/>
+<text x="160" y="192" font-size="11" font-weight="600" fill="#3a3f47" font-family="Arial" text-anchor="middle">Jontray Arnold</text>
+<rect x="134" y="200" width="52" height="14" rx="7" fill="#d8f2ec"/>
+<circle cx="143" cy="207" r="2.6" fill="#1fb6a6"/>
+<text x="149" y="210" font-size="7.5" fill="#1a9c8e" font-family="Arial">available</text>
+<rect x="95" y="226" width="140" height="22" rx="11" fill="#f2f3f7"/>
+<text x="107" y="240" font-size="8" fill="#a3a9b4" font-family="Arial">Search</text>
+<circle cx="222" cy="237" r="3.4" fill="none" stroke="#a3a9b4" stroke-width="1.3"/><path d="M224.5 239.5 l2.6 2.6" stroke="#a3a9b4" stroke-width="1.3" stroke-linecap="round"/>
+<text x="95" y="264" font-size="8.5" font-weight="600" fill="#6b7078" font-family="Arial">Last chats</text>
+<circle cx="227" cy="261" r="6.5" fill="#f2f3f7"/><path d="M227 258 v6 M224 261 h6" stroke="#a9afba" stroke-width="1.2" stroke-linecap="round"/>
+<circle cx="107" cy="284" r="11" fill="#e2e8f4"/><circle cx="107" cy="281.8" r="3.3" fill="#caa27e"/><path d="M 103.7 281.14 A 3.52 3.52 0 0 1 110.3 281.14 L 110.3 279.16 A 3.96 3.3 0 0 0 103.48 279.38 Z" fill="#4a3526"/><path d="M 100.95 294.45 A 6.38 6.38 0 0 1 113.05 294.45 L 113.05 290.05 A 5.279999999999999 4.84 0 0 0 100.95 290.05 Z" fill="#5470b8"/>
+<text x="125" y="282" font-size="8.5" font-weight="600" fill="#3a3f47" font-family="Arial">Real estate deals</text>
+<text x="125" y="294" font-size="7.5" fill="#1a9c8e" font-family="Arial">typing...</text>
+<text x="223" y="282" font-size="7.5" fill="#a3a9b4" font-family="Arial" text-anchor="end">11:15</text>
+<circle cx="107" cy="322" r="11" fill="#f6e3d3"/><circle cx="107" cy="319.8" r="3.3" fill="#caa27e"/><path d="M 103.7 319.14 A 3.52 3.52 0 0 1 110.3 319.14 L 110.3 317.16 A 3.96 3.3 0 0 0 103.48 317.38 Z" fill="#4a3526"/><path d="M 100.95 332.45 A 6.38 6.38 0 0 1 113.05 332.45 L 113.05 328.05 A 5.279999999999999 4.84 0 0 0 100.95 328.05 Z" fill="#c47f4d"/>
+<text x="125" y="320" font-size="8.5" font-weight="600" fill="#3a3f47" font-family="Arial">Kate Johnson</text>
+<text x="125" y="332" font-size="7.5" fill="#a3a9b4" font-family="Arial">I will send the document…</text>
+<text x="223" y="320" font-size="7.5" fill="#a3a9b4" font-family="Arial" text-anchor="end">11:12</text>
+<circle cx="107" cy="360" r="11" fill="#d8f2ec"/><circle cx="107" cy="357.8" r="3.3" fill="#caa27e"/><path d="M 103.7 357.14 A 3.52 3.52 0 0 1 110.3 357.14 L 110.3 355.16 A 3.96 3.3 0 0 0 103.48 355.38 Z" fill="#4a3526"/><path d="M 100.95 370.45 A 6.38 6.38 0 0 1 113.05 370.45 L 113.05 366.05 A 5.279999999999999 4.84 0 0 0 100.95 366.05 Z" fill="#3d9e8c"/>
+<text x="125" y="358" font-size="8.5" font-weight="600" fill="#3a3f47" font-family="Arial">Tamara Shevchenko</text>
+<text x="125" y="370" font-size="7.5" fill="#a3a9b4" font-family="Arial">Are you going to a busine…</text>
+<text x="223" y="358" font-size="7.5" fill="#a3a9b4" font-family="Arial" text-anchor="end">10:55</text>
+<circle cx="107" cy="398" r="11" fill="#e8dff2"/><circle cx="107" cy="395.8" r="3.3" fill="#caa27e"/><path d="M 103.7 395.14 A 3.52 3.52 0 0 1 110.3 395.14 L 110.3 393.16 A 3.96 3.3 0 0 0 103.48 393.38 Z" fill="#4a3526"/><path d="M 100.95 408.45 A 6.38 6.38 0 0 1 113.05 408.45 L 113.05 404.05 A 5.279999999999999 4.84 0 0 0 100.95 404.05 Z" fill="#8465b0"/>
+<text x="125" y="396" font-size="8.5" font-weight="600" fill="#3a3f47" font-family="Arial">Joshua Clarkson</text>
+<text x="125" y="408" font-size="7.5" fill="#a3a9b4" font-family="Arial">I suggest to start…</text>
+<text x="223" y="396" font-size="7.5" fill="#a3a9b4" font-family="Arial" text-anchor="end">10:59</text>
+<circle cx="107" cy="436" r="11" fill="#f2d9dc"/><circle cx="107" cy="433.8" r="3.3" fill="#caa27e"/><path d="M 103.7 433.14 A 3.52 3.52 0 0 1 110.3 433.14 L 110.3 431.16 A 3.96 3.3 0 0 0 103.48 431.38 Z" fill="#4a3526"/><path d="M 100.95 446.45 A 6.38 6.38 0 0 1 113.05 446.45 L 113.05 442.05 A 5.279999999999999 4.84 0 0 0 100.95 442.05 Z" fill="#b85f68"/>
+<text x="125" y="434" font-size="8.5" font-weight="600" fill="#3a3f47" font-family="Arial">Jeroen Zoet</text>
+<text x="125" y="446" font-size="7.5" fill="#a3a9b4" font-family="Arial">We need to start a new re…</text>
+<text x="223" y="434" font-size="7.5" fill="#a3a9b4" font-family="Arial" text-anchor="end">14:09</text>
+<circle cx="58" cy="453" r="13" fill="none" stroke="#1fb6a6" stroke-width="1.6"/>
+<circle cx="58" cy="453" r="10" fill="#dfe3ea"/><circle cx="58" cy="451.0" r="3.0" fill="#caa27e"/><path d="M 55.0 450.4 A 3.2 3.2 0 0 1 61.0 450.4 L 61.0 448.6 A 3.5999999999999996 3.0 0 0 0 54.8 448.8 Z" fill="#4a3526"/><path d="M 52.5 462.5 A 5.8 5.8 0 0 1 63.5 462.5 L 63.5 458.5 A 4.8 4.4 0 0 0 52.5 458.5 Z" fill="#8a6fb8"/>
+<text x="255" y="94" font-size="11.5" font-weight="600" fill="#3a3f47" font-family="Arial">Group Chat</text>
+<rect x="424" y="82" width="64" height="18" rx="9" fill="#d9f2ec"/>
+<text x="456" y="94" font-size="8" font-weight="600" fill="#1a9c8e" font-family="Arial" text-anchor="middle">Messages</text>
+<text x="498" y="94" font-size="8" fill="#a3a9b4" font-family="Arial">Participants</text>
+<circle cx="266" cy="117" r="11" fill="#e2e8f4"/><circle cx="266" cy="114.8" r="3.3" fill="#caa27e"/><path d="M 262.7 114.14 A 3.52 3.52 0 0 1 269.3 114.14 L 269.3 112.16 A 3.96 3.3 0 0 0 262.48 112.38 Z" fill="#4a3526"/><path d="M 259.95 127.45 A 6.38 6.38 0 0 1 272.05 127.45 L 272.05 123.05 A 5.279999999999999 4.84 0 0 0 259.95 123.05 Z" fill="#5470b8"/>
+<text x="284" y="114" font-size="8" font-weight="600" fill="#3a3f47" font-family="Arial">Ken Johnson</text>
+<text x="349" y="114" font-size="7" fill="#a3a9b4" font-family="Arial">10:24 AM</text>
+<text x="284" y="126" font-size="9.5" fill="#4b5158" font-family="Arial">Hi everyone, let&#8217;s start the call soon</text>
+<g><circle cx="428" cy="122" r="5.5" fill="#ffd45e" stroke="#eab53a" stroke-width="0.8"/><circle cx="426.075" cy="120.9" r="0.7150000000000001" fill="#5a4a1e"/><circle cx="429.925" cy="120.9" r="0.7150000000000001" fill="#5a4a1e"/><path d="M425.8 122.825 Q428 125.575 430.2 122.825" stroke="#5a4a1e" stroke-width="0.9" fill="none" stroke-linecap="round"/></g>
+<circle cx="266" cy="143" r="11" fill="#e2e8f4"/><circle cx="266" cy="140.8" r="3.3" fill="#caa27e"/><path d="M 262.7 140.14 A 3.52 3.52 0 0 1 269.3 140.14 L 269.3 138.16 A 3.96 3.3 0 0 0 262.48 138.38 Z" fill="#4a3526"/><path d="M 259.95 153.45 A 6.38 6.38 0 0 1 272.05 153.45 L 272.05 149.05 A 5.279999999999999 4.84 0 0 0 259.95 149.05 Z" fill="#5b7a99"/><text x="285" y="141" font-size="8" font-weight="600" fill="#3a3f47" font-family="Arial">Ken Johnson</text><text x="348.6" y="141" font-size="7" fill="#9aa1ab" font-family="Arial">10:24 AM</text><rect x="283" y="146" width="256" height="56" rx="9" fill="#ffffff" stroke="#edf0f4" stroke-width="1"/><text x="294" y="162" font-size="9.5" fill="#4b5158" font-family="Arial">Recently I saw properties in a great</text><text x="294" y="176" font-size="9.5" fill="#4b5158" font-family="Arial">location that I did not pay attention to</text><text x="294" y="190" font-size="9.5" fill="#4b5158" font-family="Arial">before</text>
+<g><circle cx="500" cy="190" r="5.5" fill="#ffd45e" stroke="#eab53a" stroke-width="0.8"/><circle cx="498.075" cy="188.9" r="0.7150000000000001" fill="#5a4a1e"/><circle cx="501.925" cy="188.9" r="0.7150000000000001" fill="#5a4a1e"/><path d="M497.8 190.825 Q500 193.575 502.2 190.825" stroke="#5a4a1e" stroke-width="0.9" fill="none" stroke-linecap="round"/></g>
+<circle cx="266" cy="223" r="11" fill="#d8f2ec"/><circle cx="266" cy="220.8" r="3.3" fill="#caa27e"/><path d="M 262.7 220.14 A 3.52 3.52 0 0 1 269.3 220.14 L 269.3 218.16 A 3.96 3.3 0 0 0 262.48 218.38 Z" fill="#4a3526"/><path d="M 259.95 233.45 A 6.38 6.38 0 0 1 272.05 233.45 L 272.05 229.05 A 5.279999999999999 4.84 0 0 0 259.95 229.05 Z" fill="#5b7a99"/><text x="285" y="221" font-size="8" font-weight="600" fill="#3a3f47" font-family="Arial">Even Scott</text><text x="343.0" y="221" font-size="7" fill="#9aa1ab" font-family="Arial">10:25 AM</text><rect x="283" y="226" width="190" height="42" rx="9" fill="#ffffff" stroke="#edf0f4" stroke-width="1"/><text x="294" y="242" font-size="9.5" fill="#4b5158" font-family="Arial">Ooo, why don&#8217;t you say something</text><text x="294" y="256" font-size="9.5" fill="#4b5158" font-family="Arial">more</text>
+<circle cx="266" cy="289" r="11" fill="#f6e3d3"/><circle cx="266" cy="286.8" r="3.3" fill="#caa27e"/><path d="M 262.7 286.14 A 3.52 3.52 0 0 1 269.3 286.14 L 269.3 284.16 A 3.96 3.3 0 0 0 262.48 284.38 Z" fill="#4a3526"/><path d="M 259.95 299.45 A 6.38 6.38 0 0 1 272.05 299.45 L 272.05 295.05 A 5.279999999999999 4.84 0 0 0 259.95 295.05 Z" fill="#5b7a99"/><text x="285" y="287" font-size="8" font-weight="600" fill="#3a3f47" font-family="Arial">Kate Johnson</text><text x="354.2" y="287" font-size="7" fill="#9aa1ab" font-family="Arial">10:26 AM</text><rect x="283" y="292" width="70" height="28" rx="9" fill="#ffffff" stroke="#edf0f4" stroke-width="1"/><text x="294" y="308" font-size="9.5" fill="#4b5158" font-family="Arial">@Robert?</text>
+<g><circle cx="330" cy="308" r="5.5" fill="#ffd45e" stroke="#eab53a" stroke-width="0.8"/><circle cx="328.075" cy="306.9" r="0.7150000000000001" fill="#5a4a1e"/><circle cx="331.925" cy="306.9" r="0.7150000000000001" fill="#5a4a1e"/><path d="M327.8 308.825 Q330 311.575 332.2 308.825" stroke="#5a4a1e" stroke-width="0.9" fill="none" stroke-linecap="round"/></g>
+<text x="518" y="334" font-size="7" fill="#9aa1ab" font-family="Arial" text-anchor="end">You, 10:26 AM</text><rect x="315" y="340" width="205" height="42" rx="9" fill="#f0f1f6"/><text x="326" y="356" font-size="9.5" fill="#4b5158" font-family="Arial">He creates an atmosphere of</text><text x="326" y="370" font-size="9.5" fill="#4b5158" font-family="Arial">mystery</text>
+<g><circle cx="505" cy="369" r="5.5" fill="#ffd45e" stroke="#eab53a" stroke-width="0.8"/><path d="M501.975 367.075 h6.050000000000001 v1.9249999999999998 h-6.050000000000001 z" fill="#3a3f47" opacity="0.85"/><path d="M501.975 367.075 l6.050000000000001 1.9249999999999998" stroke="#3a3f47" stroke-width="0.7"/><path d="M502.8 370.375 Q505 372.025 507.2 370.375" stroke="#5a4a1e" stroke-width="0.9" fill="none" stroke-linecap="round"/></g>
+<rect x="466" y="390" width="30" height="20" rx="8" fill="#f0f1f6"/>
+<g><circle cx="481" cy="400" r="5.5" fill="#ffd45e" stroke="#eab53a" stroke-width="0.8"/><path d="M477.975 398.075 h6.050000000000001 v1.9249999999999998 h-6.050000000000001 z" fill="#3a3f47" opacity="0.85"/><path d="M477.975 398.075 l6.050000000000001 1.9249999999999998" stroke="#3a3f47" stroke-width="0.7"/><path d="M478.8 401.375 Q481 403.025 483.2 401.375" stroke="#5a4a1e" stroke-width="0.9" fill="none" stroke-linecap="round"/></g>
+<rect x="500" y="390" width="30" height="20" rx="8" fill="#f0f1f6"/>
+<g><circle cx="515" cy="400" r="5.5" fill="#ffd45e" stroke="#eab53a" stroke-width="0.8"/><circle cx="513.075" cy="398.9" r="0.7150000000000001" fill="#5a4a1e"/><circle cx="516.925" cy="398.9" r="0.7150000000000001" fill="#5a4a1e"/><path d="M512.8 400.825 Q515 403.575 517.2 400.825" stroke="#5a4a1e" stroke-width="0.9" fill="none" stroke-linecap="round"/></g>
+<circle cx="266" cy="435" r="11" fill="#d8f2ec"/><circle cx="266" cy="432.8" r="3.3" fill="#caa27e"/><path d="M 262.7 432.14 A 3.52 3.52 0 0 1 269.3 432.14 L 269.3 430.16 A 3.96 3.3 0 0 0 262.48 430.38 Z" fill="#4a3526"/><path d="M 259.95 445.45 A 6.38 6.38 0 0 1 272.05 445.45 L 272.05 441.05 A 5.279999999999999 4.84 0 0 0 259.95 441.05 Z" fill="#5b7a99"/><text x="285" y="433" font-size="8" font-weight="600" fill="#3a3f47" font-family="Arial">Even Scott</text><text x="343.0" y="433" font-size="7" fill="#9aa1ab" font-family="Arial">10:34 AM</text><rect x="283" y="438" width="236" height="42" rx="9" fill="#ffffff" stroke="#edf0f4" stroke-width="1"/><text x="294" y="454" font-size="9.5" fill="#4b5158" font-family="Arial">Robert, don&#8217;t be like that and say</text><text x="294" y="468" font-size="9.5" fill="#4b5158" font-family="Arial">something more</text>
+<g><circle cx="482" cy="468" r="5.5" fill="#ffd45e" stroke="#eab53a" stroke-width="0.8"/><circle cx="480.075" cy="466.9" r="0.7150000000000001" fill="#5a4a1e"/><circle cx="483.925" cy="466.9" r="0.7150000000000001" fill="#5a4a1e"/><path d="M479.8 468.825 Q482 471.575 484.2 468.825" stroke="#5a4a1e" stroke-width="0.9" fill="none" stroke-linecap="round"/></g>
+<circle cx="266" cy="500" r="11" fill="#f2d9dc"/><circle cx="266" cy="497.8" r="3.3" fill="#caa27e"/><path d="M 262.7 497.14 A 3.52 3.52 0 0 1 269.3 497.14 L 269.3 495.16 A 3.96 3.3 0 0 0 262.48 495.38 Z" fill="#4a3526"/><path d="M 259.95 510.45 A 6.38 6.38 0 0 1 272.05 510.45 L 272.05 506.05 A 5.279999999999999 4.84 0 0 0 259.95 506.05 Z" fill="#b85f68"/>
+<text x="284" y="503" font-size="8" fill="#a3a9b4" font-family="Arial">Robert is typing</text>
+<circle cx="360" cy="500" r="1.8" fill="#b9bec7"/>
+<circle cx="367" cy="500" r="1.8" fill="#b9bec7"/>
+<circle cx="374" cy="500" r="1.8" fill="#b9bec7"/>
+<rect x="250" y="440" width="285" height="26" rx="13" fill="#f8f9fb" stroke="#eceef2"/>
+<text x="264" y="456" font-size="8.5" fill="#b0b6c0" font-family="Arial">Write your message&#8230;</text>
+<rect x="462" y="447" width="12" height="10" rx="2" fill="none" stroke="#b0b6c0" stroke-width="1.2"/><circle cx="466" cy="450.5" r="1.1" fill="none" stroke="#b0b6c0" stroke-width="1"/><path d="M462 456.5 l3 -3 2.5 2.5 2.5 -2.5 3 3" stroke="#b0b6c0" stroke-width="1.1" fill="none"/>
+<circle cx="490" cy="453" r="4.6" fill="none" stroke="#b0b6c0" stroke-width="1.2"/><circle cx="488.2" cy="451.5" r="0.7" fill="#b0b6c0"/><circle cx="491.8" cy="451.5" r="0.7" fill="#b0b6c0"/><path d="M487.8 454 q2.2 1.8 4.4 0" stroke="#b0b6c0" stroke-width="1.1" fill="none"/>
+<circle cx="517" cy="453" r="11" fill="#1fb6a6"/>
+<path d="M512.5 453 l7 -3.2 -2.2 3.2 2.2 3.2 z" fill="#ffffff"/>
+<text x="556" y="88" font-size="9" fill="#a3a9b4" font-family="Arial">&#8250;</text>
+<text x="565" y="94" font-size="9.5" font-weight="600" fill="#3a3f47" font-family="Arial">Shared files</text>
+<defs><clipPath id="gclip"><circle cx="622" cy="150" r="26"/></clipPath></defs><g clip-path="url(#gclip)"><rect x="596" y="124" width="52" height="52" fill="#e2e8ec"/><circle cx="633.7" cy="135.7" r="4.68" fill="#c3ccd2"/><rect x="596" y="145.0" width="14" height="44" fill="#98a2ab"/><rect x="612" y="129.0" width="15" height="60" fill="#98a2ab"/><rect x="629" y="147.0" width="9" height="42" fill="#98a2ab"/><rect x="640" y="146.0" width="17" height="43" fill="#98a2ab"/><rect x="596" y="163.0" width="52" height="26" fill="#78838c"/></g><circle cx="622" cy="150" r="26" fill="none" stroke="#ffffff" stroke-width="3"/>
+<text x="622" y="198" font-size="10" font-weight="600" fill="#3a3f47" font-family="Arial" text-anchor="middle">Real estate deals</text>
+<text x="622" y="211" font-size="7.5" fill="#a3a9b4" font-family="Arial" text-anchor="middle">12 members</text>
+<rect x="556" y="224" width="62" height="42" rx="8" fill="#1fb6a6"/>
+<path d="M563 240 v-6 a2 2 0 0 1 2 -2 h4 l2 2.5 h8 a2 2 0 0 1 2 2 v3.5 z" fill="#ffffff" opacity="0.95"/>
+<text x="584" y="251" font-size="13" font-weight="700" fill="#ffffff" font-family="Arial">231</text>
+<text x="584" y="260" font-size="6.5" fill="#d9f6f0" font-family="Arial">All Files</text>
+<rect x="626" y="224" width="62" height="42" rx="8" fill="#8e9aa7"/>
+<rect x="633" y="234" width="10" height="8" rx="1" fill="#ffffff" opacity="0.95"/><path d="M635 236 h6 M635 238.2 h6" stroke="#8e9aa7" stroke-width="0.9"/>
+<text x="654" y="251" font-size="13" font-weight="700" fill="#ffffff" font-family="Arial">45</text>
+<text x="654" y="260" font-size="6.5" fill="#e4e9ee" font-family="Arial">Inbox</text>
+<line x1="556" y1="286" x2="688" y2="286" stroke="#eef0f4" stroke-width="1.5"/>
+<text x="556" y="304" font-size="8.5" font-weight="600" fill="#6b7078" font-family="Arial">File type</text>
+<text x="690" y="304" font-size="10" fill="#b0b6c0" font-family="Arial" text-anchor="middle">&#8942;</text>
+<rect x="556" y="318" width="22" height="22" rx="6" fill="#e3ecfd"/>
+<path d="M562 332 v-9 h10 v9 z M564.5 328.5 h5 M564.5 331 h5" fill="#4a7de0" stroke="#4a7de0" stroke-width="0.9" stroke-linejoin="round"/>
+<text x="586" y="327" font-size="8.5" font-weight="600" fill="#3a3f47" font-family="Arial">Documents</text>
+<text x="586" y="337" font-size="7" fill="#a3a9b4" font-family="Arial">126 files, 132MB</text>
+<text x="692" y="332" font-size="9" fill="#c3c8d0" font-family="Arial" text-anchor="middle">&#8250;</text>
+<rect x="556" y="350" width="22" height="22" rx="6" fill="#fdf0dc"/>
+<path d="M562 332 v-9 h10 v9 z M562 328.5 l2.6 -2.5 2.6 2.5 1.7 -1.6 3.1 3.1" fill="#e8a63c" stroke="#e8a63c" stroke-width="0.9" stroke-linejoin="round"/>
+<text x="586" y="359" font-size="8.5" font-weight="600" fill="#3a3f47" font-family="Arial">Photos</text>
+<text x="586" y="369" font-size="7" fill="#a3a9b4" font-family="Arial">53 files, 323MB</text>
+<text x="692" y="364" font-size="9" fill="#c3c8d0" font-family="Arial" text-anchor="middle">&#8250;</text>
+<rect x="556" y="382" width="22" height="22" rx="6" fill="#d8f2ec"/>
+<path d="M562 332 v-9 h10 v9 z M566.5 325.5 l3.5 2 -3.5 2 z" fill="#27a693" stroke="#27a693" stroke-width="0.9" stroke-linejoin="round"/>
+<text x="586" y="391" font-size="8.5" font-weight="600" fill="#3a3f47" font-family="Arial">Movies</text>
+<text x="586" y="401" font-size="7" fill="#a3a9b4" font-family="Arial">3 files, 253MB</text>
+<text x="692" y="396" font-size="9" fill="#c3c8d0" font-family="Arial" text-anchor="middle">&#8250;</text>
+<rect x="556" y="414" width="22" height="22" rx="6" fill="#fce3e6"/>
+<path d="M562 332 v-9 h10 v9 z M567 326.5 v4 M565 328.5 h4" fill="#dd5f70" stroke="#dd5f70" stroke-width="0.9" stroke-linejoin="round"/>
+<text x="586" y="423" font-size="8.5" font-weight="600" fill="#3a3f47" font-family="Arial">Other</text>
+<text x="586" y="433" font-size="7" fill="#a3a9b4" font-family="Arial">49 files, 194MB</text>
+<text x="692" y="428" font-size="9" fill="#c3c8d0" font-family="Arial" text-anchor="middle">&#8250;</text>
+</svg>
