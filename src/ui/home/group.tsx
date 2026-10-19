@@ -25,7 +25,7 @@ export default function Group() {
                         <span className='absolute bottom-1 right-1 w-3.5 h-3.5 bg-emerald-500 border-2 border-white rounded-full'></span>
                     </div>
 
-                    <h2 className='text-lg font-semibold text-slate-800 mt-3'>Jontray Arnold</h2>
+                    <h2 className='text-lg font-semibold text-slate-800 mt-3'>Ashraful Pathan</h2>
 
                     <button className='flex items-center gap-1.5 px-3 py-1 mt-2 rounded-full bg-emerald-100 text-emerald-700 text-xs font-medium transition-transform duration-200 hover:scale-105'>
                         available
@@ -75,7 +75,7 @@ export default function Group() {
                             <div className='flex items-center gap-3 min-w-0'>
                                 <img src={profile} alt="profile" className='w-11 h-11 rounded-full object-cover shrink-0' />
                                 <div className='truncate'>
-                                    <p className='text-sm font-semibold text-slate-800 truncate'>Kate Johnson</p>
+                                    <p className='text-sm font-semibold text-slate-800 truncate'>Ashraful Pathan</p>
                                     <p className='text-xs text-slate-400 truncate'>I will send the document s...</p>
                                 </div>
                             </div>
@@ -89,7 +89,7 @@ export default function Group() {
                                     TS
                                 </div>
                                 <div className='truncate'>
-                                    <p className='text-sm font-semibold text-slate-800 truncate'>Tamara Shevchenko</p>
+                                    <p className='text-sm font-semibold text-slate-800 truncate'>Tailwind cli</p>
                                     <p className='text-xs text-slate-400 truncate'>are you going to a busine...</p>
                                 </div>
                             </div>
@@ -101,7 +101,7 @@ export default function Group() {
                             <div className='flex items-center gap-3 min-w-0'>
                                 <img src={profile} alt="profile" className='w-11 h-11 rounded-full object-cover shrink-0' />
                                 <div className='truncate'>
-                                    <p className='text-sm font-semibold text-slate-800 truncate'>Joshua Clarkson</p>
+                                    <p className='text-sm font-semibold text-slate-800 truncate'>Jon Don</p>
                                     <p className='text-xs text-slate-400 truncate'>I suggest to start, I have n...</p>
                                 </div>
                             </div>

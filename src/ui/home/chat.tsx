@@ -32,7 +32,7 @@ export default function Chat() {
                     <img src={profile} alt="profile" className="w-8 h-8 rounded-full object-cover shrink-0 mt-6" />
                     <div>
                         <div className="flex items-center gap-2 mb-1">
-                            <span className="text-xs font-semibold text-slate-800">Evan Scott</span>
+                            <span className="text-xs font-semibold text-slate-800">Dr Jatka</span>
                             <span className="text-[11px] text-slate-400">11:24 AM</span>
                         </div>
                         <div className="bg-white p-3.5 rounded-2xl rounded-tl-sm text-sm text-slate-800 shadow-sm border border-slate-100">
@@ -46,7 +46,7 @@ export default function Chat() {
                     <img src={profile} alt="profile" className="w-8 h-8 rounded-full object-cover shrink-0 mt-6" />
                     <div>
                         <div className="flex items-center gap-2 mb-1">
-                            <span className="text-xs font-semibold text-slate-800">Kate Johnson</span>
+                            <span className="text-xs font-semibold text-slate-800">Ashraful Pathan</span>
                             <span className="text-[11px] text-slate-400">11:28 AM</span>
                         </div>
                         <div className="bg-white p-3.5 rounded-2xl rounded-tl-sm text-sm text-slate-800 shadow-sm border border-slate-100">
@@ -68,7 +68,7 @@ export default function Chat() {
                     <img src={profile} alt="profile" className="w-8 h-8 rounded-full object-cover shrink-0 mt-6" />
                     <div>
                         <div className="flex items-center gap-2 mb-1">
-                            <span className="text-xs font-semibold text-slate-800">Jontray Arnold</span>
+                            <span className="text-xs font-semibold text-slate-800">Ashraful Pathan</span>
                             <span className="text-[11px] text-slate-400">11:35 AM</span>
                         </div>
                         <div className="bg-white p-3.5 rounded-2xl rounded-tl-sm text-sm text-slate-800 shadow-sm border border-slate-100">
@@ -82,7 +82,7 @@ export default function Chat() {
                     <img src={profile} alt="profile" className="w-8 h-8 rounded-full object-cover shrink-0 mt-6" />
                     <div>
                         <div className="flex items-center gap-2 mb-1">
-                            <span className="text-xs font-semibold text-slate-800">Tamara Shevchenko</span>
+                            <span className="text-xs font-semibold text-slate-800">Tailwind cli</span>
                             <span className="text-[11px] text-slate-400">11:38 AM</span>
                         </div>
                         <div className="bg-white p-3.5 rounded-2xl rounded-tl-sm text-sm text-slate-800 shadow-sm border border-slate-100">
