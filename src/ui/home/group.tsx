@@ -6,7 +6,7 @@ import arrow_don from '../assets/chevron-down.svg'
 
 export default function Group() {
     return (
-        <div className='border-l-2 border-l-gray-800 rounded-l-2xl py-10 w-96 '>
+        <div className='border-l-2 border-l-gray-800 rounded-l-2xl py-10 w-72 '>
             <div>
                 <div>
                     <button className='flex flex-row items-center'>

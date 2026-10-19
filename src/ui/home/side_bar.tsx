@@ -12,7 +12,7 @@ import icon6 from '../assets/video.svg'
 export default function Side_Bar(){
     return(
         <div className=''>
-            <div className='flex flex-col items-center justify-between mx-auto my-auto px-10 py-10'>
+            <div className='flex flex-col items-center justify-between mx-auto my-auto px-5 py-10'>
                 <div>
                     <a href="#">
                         <img src={Logo} alt="logo" />
