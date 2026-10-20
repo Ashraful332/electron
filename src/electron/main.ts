@@ -16,8 +16,8 @@ app.on("ready", async () => {
         minHeight: 600,
     });
     if (isDev()) { // it not work
-        mainWindow.loadURL('http://localhost:5123');
-    } else { // Allwas it work
         mainWindow.loadFile(path.join(app.getAppPath() + '/out/index.html'));
+    } else { // Allwas it work
+        mainWindow.loadURL('http://localhost:5123');
     }
 });
