@@ -1,12 +1,14 @@
 import { app, BrowserWindow } from "electron";
 import path from "path"; // for work on windows and linux both
 import { isDev } from "./util.js";
+import { startServer } from "./server.js";
 
 
 // type test  = string;
 
 
-app.on("ready", () => {
+app.on("ready", async () => {
+    await startServer();
     const mainWindow = new BrowserWindow({
         width: 1200,                  // Default width in pixels
         height: 800,                 // Default height in pixels
@@ -14,8 +16,8 @@ app.on("ready", () => {
         minHeight: 600,
     });
     if (isDev()) { // it not work
-        mainWindow.loadFile(path.join(app.getAppPath() + '/out/index.html'));
-    } else { // Allwas it work
         mainWindow.loadURL('http://localhost:5123');
+    } else { // Allwas it work
+        mainWindow.loadFile(path.join(app.getAppPath() + '/out/index.html'));
     }
 });
