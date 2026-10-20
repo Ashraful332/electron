@@ -1,5 +1,8 @@
 # Pathan sms service
-
+Electron js app Now this this is just todo type add 
+- it use sqlite database
+- store data local
+- work windows/linux/mac
 
 # create electron project
 
